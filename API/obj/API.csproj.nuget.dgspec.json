@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\eventproj\\API\\API.csproj": {}
+    "F:\\eventproj\\api\\API.csproj": {}
   },
   "projects": {
-    "F:\\eventproj\\API\\API.csproj": {
+    "F:\\eventproj\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\eventproj\\API\\API.csproj",
+        "projectUniqueName": "F:\\eventproj\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "F:\\eventproj\\API\\API.csproj",
+        "projectPath": "F:\\eventproj\\api\\API.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "F:\\eventproj\\API\\obj\\",
+        "outputPath": "F:\\eventproj\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"

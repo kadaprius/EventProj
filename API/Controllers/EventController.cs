@@ -1,4 +1,6 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Core.Entities;
+using Core.Interfaces;
+using Microsoft.AspNetCore.Mvc;
 
 namespace API.Controllers;
 
@@ -6,14 +8,24 @@ namespace API.Controllers;
 [Route("api/[controller]")]
 public class EventController : ControllerBase
 {
-    [HttpGet]
-    public string GetEvents()
+    private readonly IEventsRepository _repo;
+
+    public EventController(IEventsRepository repo)
     {
-        return "Events";
+        _repo = repo;
+    }
+
+    [HttpGet]
+    public async Task<ActionResult<List<Event>>> GetEvents()
+    {
+        var events = await _repo.GetProductsAsync();
+
+        return Ok(events);
+        
     }
     [HttpGet("{id}")]
-    public string GetEventById(int id)
+    public async Task<ActionResult<Event>> GetEventsById(int id)
     {
-        return "Event ID";
+        return await _repo.GetProductByIdAsync(id);
     }
 }
