@@ -9,3 +9,6 @@ F:\eventproj\Core\obj\Debug\net7.0\Core.dll
 F:\eventproj\Core\obj\Debug\net7.0\refint\Core.dll
 F:\eventproj\Core\obj\Debug\net7.0\Core.pdb
 F:\eventproj\Core\obj\Debug\net7.0\ref\Core.dll
+F:\eventproj\Core\bin\Debug\net7.0\Core.runtimeconfig.json
+F:\eventproj\Core\obj\Debug\net7.0\Core.csproj.AssemblyReference.cache
+F:\eventproj\Core\obj\Debug\net7.0\Core.genruntimeconfig.cache

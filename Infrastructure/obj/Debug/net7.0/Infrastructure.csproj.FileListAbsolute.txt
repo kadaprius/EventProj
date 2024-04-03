@@ -13,3 +13,5 @@ F:\eventproj\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
 F:\eventproj\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
 F:\eventproj\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
 F:\eventproj\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+F:\eventproj\Infrastructure\bin\Debug\net7.0\Infrastructure.runtimeconfig.json
+F:\eventproj\Infrastructure\obj\Debug\net7.0\Infrastructure.genruntimeconfig.cache
