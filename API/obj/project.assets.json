@@ -3383,32 +3383,35 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "C:\\Users\\Ami\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\eventproj\\API\\API.csproj",
+      "projectUniqueName": "G:\\Twins\\Work\\EventsApp\\proj\\EventProj\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "F:\\eventproj\\API\\API.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "F:\\eventproj\\API\\obj\\",
+      "projectPath": "G:\\Twins\\Work\\EventsApp\\proj\\EventProj\\API\\API.csproj",
+      "packagesPath": "C:\\Users\\Ami\\.nuget\\packages\\",
+      "outputPath": "G:\\Twins\\Work\\EventsApp\\proj\\EventProj\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Ami\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "F:\\eventproj\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "F:\\eventproj\\Infrastructure\\Infrastructure.csproj"
+            "G:\\Twins\\Work\\EventsApp\\proj\\EventProj\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "G:\\Twins\\Work\\EventsApp\\proj\\EventProj\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }
@@ -3467,7 +3470,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
       }
     }
   }

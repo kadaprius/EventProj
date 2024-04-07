@@ -2848,24 +2848,26 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "C:\\Users\\Ami\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\eventproj\\Core\\Core.csproj",
+      "projectUniqueName": "G:\\Twins\\Work\\EventsApp\\proj\\EventProj\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "F:\\eventproj\\Core\\Core.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "F:\\eventproj\\Core\\obj\\",
+      "projectPath": "G:\\Twins\\Work\\EventsApp\\proj\\EventProj\\Core\\Core.csproj",
+      "packagesPath": "C:\\Users\\Ami\\.nuget\\packages\\",
+      "outputPath": "G:\\Twins\\Work\\EventsApp\\proj\\EventProj\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Ami\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -2915,7 +2917,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
       }
     }
   }
