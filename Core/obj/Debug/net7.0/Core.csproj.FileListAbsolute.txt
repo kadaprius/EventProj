@@ -12,3 +12,17 @@ F:\eventproj\Core\obj\Debug\net7.0\ref\Core.dll
 F:\eventproj\Core\bin\Debug\net7.0\Core.runtimeconfig.json
 F:\eventproj\Core\obj\Debug\net7.0\Core.csproj.AssemblyReference.cache
 F:\eventproj\Core\obj\Debug\net7.0\Core.genruntimeconfig.cache
+G:\Twins\Work\EventsApp\proj\EventProj\Core\bin\Debug\net7.0\Core.deps.json
+G:\Twins\Work\EventsApp\proj\EventProj\Core\bin\Debug\net7.0\Core.runtimeconfig.json
+G:\Twins\Work\EventsApp\proj\EventProj\Core\bin\Debug\net7.0\Core.dll
+G:\Twins\Work\EventsApp\proj\EventProj\Core\bin\Debug\net7.0\Core.pdb
+G:\Twins\Work\EventsApp\proj\EventProj\Core\obj\Debug\net7.0\Core.csproj.AssemblyReference.cache
+G:\Twins\Work\EventsApp\proj\EventProj\Core\obj\Debug\net7.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+G:\Twins\Work\EventsApp\proj\EventProj\Core\obj\Debug\net7.0\Core.AssemblyInfoInputs.cache
+G:\Twins\Work\EventsApp\proj\EventProj\Core\obj\Debug\net7.0\Core.AssemblyInfo.cs
+G:\Twins\Work\EventsApp\proj\EventProj\Core\obj\Debug\net7.0\Core.csproj.CoreCompileInputs.cache
+G:\Twins\Work\EventsApp\proj\EventProj\Core\obj\Debug\net7.0\Core.dll
+G:\Twins\Work\EventsApp\proj\EventProj\Core\obj\Debug\net7.0\refint\Core.dll
+G:\Twins\Work\EventsApp\proj\EventProj\Core\obj\Debug\net7.0\Core.pdb
+G:\Twins\Work\EventsApp\proj\EventProj\Core\obj\Debug\net7.0\Core.genruntimeconfig.cache
+G:\Twins\Work\EventsApp\proj\EventProj\Core\obj\Debug\net7.0\ref\Core.dll

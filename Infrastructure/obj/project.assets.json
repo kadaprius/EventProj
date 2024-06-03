@@ -2906,32 +2906,34 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "C:\\Users\\Ami\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\eventproj\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "G:\\Twins\\Work\\EventsApp\\proj\\EventProj\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "F:\\eventproj\\Infrastructure\\Infrastructure.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "F:\\eventproj\\Infrastructure\\obj\\",
+      "projectPath": "G:\\Twins\\Work\\EventsApp\\proj\\EventProj\\Infrastructure\\Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\Ami\\.nuget\\packages\\",
+      "outputPath": "G:\\Twins\\Work\\EventsApp\\proj\\EventProj\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Ami\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "F:\\eventproj\\Core\\Core.csproj": {
-              "projectPath": "F:\\eventproj\\Core\\Core.csproj"
+            "G:\\Twins\\Work\\EventsApp\\proj\\EventProj\\Core\\Core.csproj": {
+              "projectPath": "G:\\Twins\\Work\\EventsApp\\proj\\EventProj\\Core\\Core.csproj"
             }
           }
         }
@@ -2983,7 +2985,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
       }
     }
   }
