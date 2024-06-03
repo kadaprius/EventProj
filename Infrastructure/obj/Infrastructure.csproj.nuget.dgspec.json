@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Twins\\Work\\EventsApp\\proj\\EventProj\\Infrastructure\\Infrastructure.csproj": {}
+    "G:\\Twins\\Work\\EventsWebsite\\EventProj\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "G:\\Twins\\Work\\EventsApp\\proj\\EventProj\\Core\\Core.csproj": {
+    "G:\\Twins\\Work\\EventsWebsite\\EventProj\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Twins\\Work\\EventsApp\\proj\\EventProj\\Core\\Core.csproj",
+        "projectUniqueName": "G:\\Twins\\Work\\EventsWebsite\\EventProj\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "G:\\Twins\\Work\\EventsApp\\proj\\EventProj\\Core\\Core.csproj",
+        "projectPath": "G:\\Twins\\Work\\EventsWebsite\\EventProj\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\Ami\\.nuget\\packages\\",
-        "outputPath": "G:\\Twins\\Work\\EventsApp\\proj\\EventProj\\Core\\obj\\",
+        "outputPath": "G:\\Twins\\Work\\EventsWebsite\\EventProj\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ami\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -75,14 +75,14 @@
         }
       }
     },
-    "G:\\Twins\\Work\\EventsApp\\proj\\EventProj\\Infrastructure\\Infrastructure.csproj": {
+    "G:\\Twins\\Work\\EventsWebsite\\EventProj\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Twins\\Work\\EventsApp\\proj\\EventProj\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "G:\\Twins\\Work\\EventsWebsite\\EventProj\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "G:\\Twins\\Work\\EventsApp\\proj\\EventProj\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "G:\\Twins\\Work\\EventsWebsite\\EventProj\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Ami\\.nuget\\packages\\",
-        "outputPath": "G:\\Twins\\Work\\EventsApp\\proj\\EventProj\\Infrastructure\\obj\\",
+        "outputPath": "G:\\Twins\\Work\\EventsWebsite\\EventProj\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ami\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -99,8 +99,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "G:\\Twins\\Work\\EventsApp\\proj\\EventProj\\Core\\Core.csproj": {
-                "projectPath": "G:\\Twins\\Work\\EventsApp\\proj\\EventProj\\Core\\Core.csproj"
+              "G:\\Twins\\Work\\EventsWebsite\\EventProj\\Core\\Core.csproj": {
+                "projectPath": "G:\\Twins\\Work\\EventsWebsite\\EventProj\\Core\\Core.csproj"
               }
             }
           }

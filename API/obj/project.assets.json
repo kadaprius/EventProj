@@ -3388,11 +3388,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Twins\\Work\\EventsApp\\proj\\EventProj\\API\\API.csproj",
+      "projectUniqueName": "G:\\Twins\\Work\\EventsWebsite\\EventProj\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "G:\\Twins\\Work\\EventsApp\\proj\\EventProj\\API\\API.csproj",
+      "projectPath": "G:\\Twins\\Work\\EventsWebsite\\EventProj\\API\\API.csproj",
       "packagesPath": "C:\\Users\\Ami\\.nuget\\packages\\",
-      "outputPath": "G:\\Twins\\Work\\EventsApp\\proj\\EventProj\\API\\obj\\",
+      "outputPath": "G:\\Twins\\Work\\EventsWebsite\\EventProj\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ami\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3410,8 +3410,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "G:\\Twins\\Work\\EventsApp\\proj\\EventProj\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "G:\\Twins\\Work\\EventsApp\\proj\\EventProj\\Infrastructure\\Infrastructure.csproj"
+            "G:\\Twins\\Work\\EventsWebsite\\EventProj\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "G:\\Twins\\Work\\EventsWebsite\\EventProj\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }

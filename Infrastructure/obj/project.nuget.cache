@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iHgMLaCe6LZG0eLT2gf8Rq+tCs61KZDxiBR51XBVPHdl3oHIDecOCxn/c0E2Z9bdVWHjAUrsdZifTG5Naf2izw==",
+  "dgSpecHash": "xZg4bBmjyyvmHrYs1HPX1RPIYjb7M5IQDehf00IJ5G1R9boVEpDy05hlbaqXNhvsEmOtDIghClPwkfSO/Lu/mQ==",
   "success": true,
-  "projectFilePath": "G:\\Twins\\Work\\EventsApp\\proj\\EventProj\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "G:\\Twins\\Work\\EventsWebsite\\EventProj\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ami\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Ami\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
